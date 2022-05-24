@@ -1,0 +1,3 @@
+/mnt/c/cpad-2022/MBD/multi_tasks/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/cpad-2022/MBD/multi_tasks/build/CMakeFiles/edit_cache.dir
+/mnt/c/cpad-2022/MBD/multi_tasks/build/CMakeFiles/run.dir
